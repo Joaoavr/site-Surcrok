@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fenix&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+.Nosso-pro h1{
+     font-weight: bold;
+     margin-left: 11em;
+     margin-bottom: 1em;
+     margin-top: 2em;
+     font-family: 'Fenix',serif;
+}
+.Nosso-pro p{
+    margin-left: 18.4em;
+    font-size: 1.2em;
+    margin-bottom: 7em;
+}
+.Nosso-pro img{
+    width: 30vw;
+    height: 30vh;
+    margin-left: 70em;
+    position: absolute;
+    top: 0%;
+}
+.sustentabel h2{
+    font-weight: 400;
+    font-size: 1.8em;
+    margin-left: 14.6em; 
+    font-family: 'Fenix',serif;
+}
+.sustentabel h1{
+    font-weight: bold;
+    margin-left: 12em; 
+    font-size: 2em;
+    font-family: 'Oswald',sans-serif;
+    margin-bottom: 1em;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    height: 40vh;
+    width: 20vw;
+    text-align: center;
+    margin-left: 1.4em;
+    margin-top: 1.5em;
+    background-color: #C8A57B;
+    margin-bottom: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    color: #fff;
+}
+.breveunder{
+    width:100% ;
+    height: 2px;
+    background-color: #fff;
+}
+#color{
+    background-color: #C8A57B;
+}
+.card-long{
+    display: flex;
+    justify-content: center;
+}
+
+.card2{
+    height: 40vh;
+    width: 30vw;
+    text-align: center;
+    margin-left: 1.4em;
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+    background-color: #C8A57B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    color: #fff;
+}
